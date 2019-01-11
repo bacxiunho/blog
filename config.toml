@@ -20,3 +20,5 @@ link = "https://www.facebook.com/vanthanhng96"
 [[params.socials]]
 name = "Nam Nguyễn"
 link = "https://github.com/nguyenkhanhnam"
+
+googleAnalytics = "UA-132304559-1"
