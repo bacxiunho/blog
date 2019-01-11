@@ -1,5 +1,5 @@
 backend:
-  name: netlify-api
+  name: git-gateway
 collections:
   - name: "post" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
