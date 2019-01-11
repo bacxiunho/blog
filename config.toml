@@ -1,0 +1,22 @@
+baseURL = "http://nguyenthanhvan.xyz/"
+languageCode = "en-us"
+title = "Nguyễn Thanh Văn"
+theme = "hugo-theme-yinyang"
+
+[params]
+    author = "Nguyễn Thanh Văn"
+    description = "sống để yêu thương"
+    images = ["vien-dang.jpg"]
+    title = "Nguyễn Thanh Văn"
+    og_image = "vien-dang.jpg"
+
+[author]
+  name = "Nguyễn Thanh Văn"
+  homepage = "http://nguyenthanhvan.xyz/"
+
+[[params.socials]]
+name = "Nguyễn Thanh Văn"
+link = "https://www.facebook.com/vanthanhng96"
+[[params.socials]]
+name = "Nam Nguyễn"
+link = "https://github.com/nguyenkhanhnam"
