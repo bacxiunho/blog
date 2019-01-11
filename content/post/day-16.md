@@ -1,5 +1,5 @@
 ﻿+++
-title = "Khi nào tôi rảnh"
+title = "Khi nào bạn rảnh"
 date = 16
 draft = false
 tags = []

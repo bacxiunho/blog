@@ -1,5 +1,5 @@
 ﻿+++
-title = "Từ xe ôm thành triệu phú #1"
+title = "Từ xe ôm thành triệu phú"
 date = 8
 draft = false
 tags = []
