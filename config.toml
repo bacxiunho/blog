@@ -1,4 +1,7 @@
 baseURL = "http://nguyenthanhvan.xyz/"
+
+googleAnalytics = "UA-132304559-1"
+
 languageCode = "en-us"
 title = "Nguyễn Thanh Văn"
 theme = "hugo-theme-yinyang"
@@ -19,4 +22,4 @@ name = "Nguyễn Thanh Văn"
 link = "https://www.facebook.com/vanthanhng96"
 [[params.socials]]
 name = "Nam Nguyễn"
-link = "https://github.com/nguyenkhanhnam"
+link = "https://www.facebook.com/khanhnamnguyen96"
