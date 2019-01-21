@@ -8,7 +8,7 @@ theme = "hugo-theme-yinyang"
 
 [params]
     author = "Nguyễn Thanh Văn"
-    description = "sống là yêu thương"
+    description = "sống để yêu thương"
     images = ["vien-dang.jpg"]
     title = "Nguyễn Thanh Văn"
     og_image = "vien-dang.jpg"
